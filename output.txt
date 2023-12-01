@@ -1,0 +1,2003 @@
+1. first: 4 last:4
+result: 44
+2. first: 3 last:0
+result: 33
+3. first: 8 last:8
+result: 88
+4. first: 3 last:9
+result: 39
+5. first: 1 last:3
+result: 13
+6. first: 4 last:4
+result: 44
+7. first: 4 last:2
+result: 42
+8. first: 6 last:8
+result: 68
+9. first: 8 last:6
+result: 86
+10. first: 4 last:7
+result: 47
+11. first: 6 last:4
+result: 64
+12. first: 6 last:5
+result: 65
+13. first: 6 last:1
+result: 61
+14. first: 6 last:0
+result: 66
+15. first: 8 last:7
+result: 87
+16. first: 8 last:2
+result: 82
+17. first: 2 last:7
+result: 27
+18. first: 8 last:9
+result: 89
+19. first: 6 last:9
+result: 69
+20. first: 2 last:6
+result: 26
+21. first: 3 last:2
+result: 32
+22. first: 1 last:5
+result: 15
+23. first: 4 last:1
+result: 41
+24. first: 2 last:9
+result: 29
+25. first: 8 last:4
+result: 84
+26. first: 8 last:8
+result: 88
+27. first: 8 last:6
+result: 86
+28. first: 1 last:2
+result: 12
+29. first: 3 last:4
+result: 34
+30. first: 9 last:1
+result: 91
+31. first: 1 last:3
+result: 13
+32. first: 9 last:7
+result: 97
+33. first: 9 last:7
+result: 97
+34. first: 8 last:9
+result: 89
+35. first: 9 last:4
+result: 94
+36. first: 2 last:3
+result: 23
+37. first: 3 last:2
+result: 32
+38. first: 4 last:4
+result: 44
+39. first: 9 last:9
+result: 99
+40. first: 1 last:8
+result: 18
+41. first: 3 last:7
+result: 37
+42. first: 1 last:8
+result: 18
+43. first: 3 last:9
+result: 39
+44. first: 6 last:2
+result: 62
+45. first: 3 last:2
+result: 32
+46. first: 1 last:3
+result: 13
+47. first: 6 last:9
+result: 69
+48. first: 4 last:8
+result: 48
+49. first: 5 last:9
+result: 59
+50. first: 2 last:3
+result: 23
+51. first: 7 last:6
+result: 76
+52. first: 2 last:8
+result: 28
+53. first: 7 last:0
+result: 77
+54. first: 8 last:7
+result: 87
+55. first: 7 last:7
+result: 77
+56. first: 4 last:8
+result: 48
+57. first: 8 last:8
+result: 88
+58. first: 2 last:8
+result: 28
+59. first: 2 last:9
+result: 29
+60. first: 5 last:2
+result: 52
+61. first: 1 last:4
+result: 14
+62. first: 8 last:2
+result: 82
+63. first: 2 last:8
+result: 28
+64. first: 6 last:0
+result: 66
+65. first: 8 last:1
+result: 81
+66. first: 4 last:7
+result: 47
+67. first: 6 last:8
+result: 68
+68. first: 9 last:1
+result: 91
+69. first: 4 last:1
+result: 41
+70. first: 6 last:7
+result: 67
+71. first: 8 last:1
+result: 81
+72. first: 3 last:3
+result: 33
+73. first: 7 last:3
+result: 73
+74. first: 3 last:8
+result: 38
+75. first: 6 last:2
+result: 62
+76. first: 9 last:4
+result: 94
+77. first: 1 last:6
+result: 16
+78. first: 4 last:3
+result: 43
+79. first: 8 last:2
+result: 82
+80. first: 5 last:8
+result: 58
+81. first: 2 last:8
+result: 28
+82. first: 2 last:4
+result: 24
+83. first: 3 last:0
+result: 33
+84. first: 5 last:2
+result: 52
+85. first: 6 last:8
+result: 68
+86. first: 3 last:1
+result: 31
+87. first: 8 last:8
+result: 88
+88. first: 9 last:5
+result: 95
+89. first: 1 last:3
+result: 13
+90. first: 1 last:4
+result: 14
+91. first: 6 last:2
+result: 62
+92. first: 1 last:7
+result: 17
+93. first: 1 last:5
+result: 15
+94. first: 6 last:9
+result: 69
+95. first: 7 last:0
+result: 77
+96. first: 4 last:0
+result: 44
+97. first: 1 last:8
+result: 18
+98. first: 1 last:9
+result: 19
+99. first: 5 last:5
+result: 55
+100. first: 2 last:2
+result: 22
+101. first: 3 last:6
+result: 36
+102. first: 3 last:5
+result: 35
+103. first: 1 last:1
+result: 11
+104. first: 8 last:8
+result: 88
+105. first: 8 last:7
+result: 87
+106. first: 7 last:4
+result: 74
+107. first: 6 last:0
+result: 66
+108. first: 4 last:4
+result: 44
+109. first: 5 last:9
+result: 59
+110. first: 4 last:4
+result: 44
+111. first: 6 last:8
+result: 68
+112. first: 5 last:5
+result: 55
+113. first: 2 last:3
+result: 23
+114. first: 8 last:0
+result: 88
+115. first: 2 last:2
+result: 22
+116. first: 2 last:2
+result: 22
+117. first: 5 last:0
+result: 55
+118. first: 8 last:8
+result: 88
+119. first: 5 last:3
+result: 53
+120. first: 4 last:3
+result: 43
+121. first: 4 last:1
+result: 41
+122. first: 3 last:7
+result: 37
+123. first: 8 last:6
+result: 86
+124. first: 1 last:3
+result: 13
+125. first: 1 last:2
+result: 12
+126. first: 3 last:3
+result: 33
+127. first: 4 last:0
+result: 44
+128. first: 1 last:1
+result: 11
+129. first: 5 last:0
+result: 55
+130. first: 1 last:0
+result: 11
+131. first: 9 last:6
+result: 96
+132. first: 1 last:2
+result: 12
+133. first: 1 last:6
+result: 16
+134. first: 3 last:2
+result: 32
+135. first: 2 last:9
+result: 29
+136. first: 7 last:9
+result: 79
+137. first: 1 last:9
+result: 19
+138. first: 1 last:3
+result: 13
+139. first: 8 last:9
+result: 89
+140. first: 7 last:2
+result: 72
+141. first: 4 last:2
+result: 42
+142. first: 3 last:7
+result: 37
+143. first: 2 last:2
+result: 22
+144. first: 9 last:6
+result: 96
+145. first: 2 last:4
+result: 24
+146. first: 4 last:5
+result: 45
+147. first: 4 last:6
+result: 46
+148. first: 8 last:9
+result: 89
+149. first: 1 last:2
+result: 12
+150. first: 2 last:1
+result: 21
+151. first: 5 last:3
+result: 53
+152. first: 4 last:6
+result: 46
+153. first: 4 last:9
+result: 49
+154. first: 2 last:1
+result: 21
+155. first: 8 last:9
+result: 89
+156. first: 2 last:0
+result: 22
+157. first: 2 last:0
+result: 22
+158. first: 9 last:7
+result: 97
+159. first: 6 last:2
+result: 62
+160. first: 2 last:3
+result: 23
+161. first: 2 last:1
+result: 21
+162. first: 7 last:1
+result: 71
+163. first: 9 last:8
+result: 98
+164. first: 7 last:0
+result: 77
+165. first: 1 last:2
+result: 12
+166. first: 8 last:7
+result: 87
+167. first: 8 last:4
+result: 84
+168. first: 4 last:6
+result: 46
+169. first: 9 last:7
+result: 97
+170. first: 6 last:4
+result: 64
+171. first: 8 last:2
+result: 82
+172. first: 1 last:2
+result: 12
+173. first: 9 last:8
+result: 98
+174. first: 9 last:3
+result: 93
+175. first: 4 last:4
+result: 44
+176. first: 3 last:7
+result: 37
+177. first: 8 last:2
+result: 82
+178. first: 1 last:5
+result: 15
+179. first: 9 last:5
+result: 95
+180. first: 2 last:2
+result: 22
+181. first: 8 last:5
+result: 85
+182. first: 7 last:4
+result: 74
+183. first: 3 last:7
+result: 37
+184. first: 1 last:4
+result: 14
+185. first: 6 last:2
+result: 62
+186. first: 6 last:2
+result: 62
+187. first: 6 last:8
+result: 68
+188. first: 1 last:4
+result: 14
+189. first: 8 last:2
+result: 82
+190. first: 8 last:4
+result: 84
+191. first: 1 last:9
+result: 19
+192. first: 1 last:0
+result: 11
+193. first: 7 last:8
+result: 78
+194. first: 8 last:4
+result: 84
+195. first: 1 last:8
+result: 18
+196. first: 2 last:8
+result: 28
+197. first: 9 last:7
+result: 97
+198. first: 8 last:5
+result: 85
+199. first: 6 last:0
+result: 66
+200. first: 2 last:1
+result: 21
+201. first: 2 last:1
+result: 21
+202. first: 7 last:4
+result: 74
+203. first: 7 last:4
+result: 74
+204. first: 3 last:8
+result: 38
+205. first: 7 last:4
+result: 74
+206. first: 1 last:0
+result: 11
+207. first: 1 last:3
+result: 13
+208. first: 7 last:3
+result: 73
+209. first: 6 last:3
+result: 63
+210. first: 7 last:6
+result: 76
+211. first: 1 last:8
+result: 18
+212. first: 7 last:1
+result: 71
+213. first: 8 last:8
+result: 88
+214. first: 2 last:6
+result: 26
+215. first: 4 last:4
+result: 44
+216. first: 2 last:2
+result: 22
+217. first: 2 last:6
+result: 26
+218. first: 7 last:0
+result: 77
+219. first: 6 last:3
+result: 63
+220. first: 9 last:3
+result: 93
+221. first: 7 last:9
+result: 79
+222. first: 9 last:9
+result: 99
+223. first: 5 last:8
+result: 58
+224. first: 8 last:0
+result: 88
+225. first: 7 last:6
+result: 76
+226. first: 4 last:9
+result: 49
+227. first: 3 last:7
+result: 37
+228. first: 8 last:2
+result: 82
+229. first: 3 last:7
+result: 37
+230. first: 1 last:1
+result: 11
+231. first: 1 last:2
+result: 12
+232. first: 5 last:0
+result: 55
+233. first: 4 last:0
+result: 44
+234. first: 9 last:9
+result: 99
+235. first: 5 last:5
+result: 55
+236. first: 8 last:1
+result: 81
+237. first: 4 last:1
+result: 41
+238. first: 2 last:6
+result: 26
+239. first: 6 last:1
+result: 61
+240. first: 6 last:5
+result: 65
+241. first: 6 last:3
+result: 63
+242. first: 9 last:7
+result: 97
+243. first: 9 last:9
+result: 99
+244. first: 6 last:9
+result: 69
+245. first: 3 last:0
+result: 33
+246. first: 8 last:6
+result: 86
+247. first: 7 last:0
+result: 77
+248. first: 6 last:9
+result: 69
+249. first: 2 last:6
+result: 26
+250. first: 8 last:8
+result: 88
+251. first: 6 last:9
+result: 69
+252. first: 7 last:4
+result: 74
+253. first: 3 last:8
+result: 38
+254. first: 3 last:1
+result: 31
+255. first: 1 last:8
+result: 18
+256. first: 3 last:5
+result: 35
+257. first: 6 last:7
+result: 67
+258. first: 9 last:8
+result: 98
+259. first: 9 last:8
+result: 98
+260. first: 7 last:3
+result: 73
+261. first: 7 last:3
+result: 73
+262. first: 1 last:4
+result: 14
+263. first: 2 last:2
+result: 22
+264. first: 6 last:0
+result: 66
+265. first: 2 last:2
+result: 22
+266. first: 7 last:3
+result: 73
+267. first: 7 last:7
+result: 77
+268. first: 3 last:3
+result: 33
+269. first: 2 last:8
+result: 28
+270. first: 5 last:8
+result: 58
+271. first: 1 last:5
+result: 15
+272. first: 7 last:9
+result: 79
+273. first: 1 last:2
+result: 12
+274. first: 3 last:2
+result: 32
+275. first: 2 last:8
+result: 28
+276. first: 9 last:8
+result: 98
+277. first: 7 last:3
+result: 73
+278. first: 4 last:8
+result: 48
+279. first: 9 last:1
+result: 91
+280. first: 7 last:4
+result: 74
+281. first: 2 last:2
+result: 22
+282. first: 4 last:9
+result: 49
+283. first: 4 last:1
+result: 41
+284. first: 6 last:3
+result: 63
+285. first: 8 last:6
+result: 86
+286. first: 1 last:1
+result: 11
+287. first: 2 last:5
+result: 25
+288. first: 8 last:3
+result: 83
+289. first: 8 last:1
+result: 81
+290. first: 9 last:4
+result: 94
+291. first: 8 last:7
+result: 87
+292. first: 6 last:2
+result: 62
+293. first: 9 last:4
+result: 94
+294. first: 7 last:1
+result: 71
+295. first: 8 last:6
+result: 86
+296. first: 9 last:1
+result: 91
+297. first: 6 last:6
+result: 66
+298. first: 4 last:0
+result: 44
+299. first: 8 last:7
+result: 87
+300. first: 7 last:8
+result: 78
+301. first: 4 last:5
+result: 45
+302. first: 6 last:3
+result: 63
+303. first: 8 last:4
+result: 84
+304. first: 4 last:1
+result: 41
+305. first: 6 last:8
+result: 68
+306. first: 5 last:4
+result: 54
+307. first: 4 last:9
+result: 49
+308. first: 9 last:3
+result: 93
+309. first: 9 last:4
+result: 94
+310. first: 7 last:5
+result: 75
+311. first: 1 last:6
+result: 16
+312. first: 4 last:2
+result: 42
+313. first: 6 last:6
+result: 66
+314. first: 2 last:5
+result: 25
+315. first: 9 last:0
+result: 99
+316. first: 3 last:2
+result: 32
+317. first: 1 last:0
+result: 11
+318. first: 3 last:2
+result: 32
+319. first: 3 last:4
+result: 34
+320. first: 6 last:3
+result: 63
+321. first: 3 last:9
+result: 39
+322. first: 8 last:9
+result: 89
+323. first: 9 last:6
+result: 96
+324. first: 5 last:4
+result: 54
+325. first: 5 last:2
+result: 52
+326. first: 3 last:9
+result: 39
+327. first: 2 last:6
+result: 26
+328. first: 8 last:7
+result: 87
+329. first: 6 last:0
+result: 66
+330. first: 6 last:3
+result: 63
+331. first: 6 last:1
+result: 61
+332. first: 2 last:8
+result: 28
+333. first: 9 last:7
+result: 97
+334. first: 6 last:3
+result: 63
+335. first: 5 last:6
+result: 56
+336. first: 9 last:0
+result: 99
+337. first: 2 last:2
+result: 22
+338. first: 2 last:5
+result: 25
+339. first: 9 last:6
+result: 96
+340. first: 3 last:6
+result: 36
+341. first: 2 last:6
+result: 26
+342. first: 8 last:2
+result: 82
+343. first: 2 last:8
+result: 28
+344. first: 9 last:1
+result: 91
+345. first: 2 last:9
+result: 29
+346. first: 5 last:8
+result: 58
+347. first: 1 last:9
+result: 19
+348. first: 1 last:1
+result: 11
+349. first: 7 last:4
+result: 74
+350. first: 9 last:5
+result: 95
+351. first: 4 last:2
+result: 42
+352. first: 9 last:6
+result: 96
+353. first: 1 last:0
+result: 11
+354. first: 3 last:6
+result: 36
+355. first: 2 last:8
+result: 28
+356. first: 6 last:3
+result: 63
+357. first: 6 last:1
+result: 61
+358. first: 3 last:8
+result: 38
+359. first: 1 last:8
+result: 18
+360. first: 2 last:3
+result: 23
+361. first: 2 last:9
+result: 29
+362. first: 7 last:2
+result: 72
+363. first: 1 last:2
+result: 12
+364. first: 7 last:7
+result: 77
+365. first: 7 last:9
+result: 79
+366. first: 7 last:4
+result: 74
+367. first: 4 last:3
+result: 43
+368. first: 6 last:2
+result: 62
+369. first: 3 last:6
+result: 36
+370. first: 3 last:7
+result: 37
+371. first: 8 last:3
+result: 83
+372. first: 7 last:8
+result: 78
+373. first: 2 last:2
+result: 22
+374. first: 6 last:0
+result: 66
+375. first: 4 last:4
+result: 44
+376. first: 9 last:0
+result: 99
+377. first: 6 last:2
+result: 62
+378. first: 9 last:3
+result: 93
+379. first: 6 last:2
+result: 62
+380. first: 4 last:1
+result: 41
+381. first: 1 last:1
+result: 11
+382. first: 8 last:2
+result: 82
+383. first: 1 last:1
+result: 11
+384. first: 1 last:7
+result: 17
+385. first: 7 last:3
+result: 73
+386. first: 3 last:2
+result: 32
+387. first: 1 last:5
+result: 15
+388. first: 8 last:2
+result: 82
+389. first: 1 last:4
+result: 14
+390. first: 5 last:1
+result: 51
+391. first: 6 last:8
+result: 68
+392. first: 3 last:2
+result: 32
+393. first: 4 last:6
+result: 46
+394. first: 2 last:7
+result: 27
+395. first: 7 last:9
+result: 79
+396. first: 8 last:9
+result: 89
+397. first: 6 last:2
+result: 62
+398. first: 1 last:1
+result: 11
+399. first: 9 last:2
+result: 92
+400. first: 8 last:1
+result: 81
+401. first: 5 last:3
+result: 53
+402. first: 7 last:1
+result: 71
+403. first: 4 last:3
+result: 43
+404. first: 6 last:4
+result: 64
+405. first: 9 last:8
+result: 98
+406. first: 2 last:4
+result: 24
+407. first: 7 last:3
+result: 73
+408. first: 1 last:7
+result: 17
+409. first: 5 last:9
+result: 59
+410. first: 1 last:4
+result: 14
+411. first: 4 last:7
+result: 47
+412. first: 2 last:6
+result: 26
+413. first: 8 last:6
+result: 86
+414. first: 2 last:1
+result: 21
+415. first: 7 last:0
+result: 77
+416. first: 4 last:8
+result: 48
+417. first: 7 last:6
+result: 76
+418. first: 6 last:1
+result: 61
+419. first: 7 last:8
+result: 78
+420. first: 6 last:1
+result: 61
+421. first: 3 last:2
+result: 32
+422. first: 9 last:7
+result: 97
+423. first: 8 last:1
+result: 81
+424. first: 4 last:2
+result: 42
+425. first: 9 last:2
+result: 92
+426. first: 2 last:2
+result: 22
+427. first: 8 last:7
+result: 87
+428. first: 5 last:4
+result: 54
+429. first: 1 last:8
+result: 18
+430. first: 3 last:2
+result: 32
+431. first: 1 last:1
+result: 11
+432. first: 7 last:8
+result: 78
+433. first: 4 last:9
+result: 49
+434. first: 4 last:8
+result: 48
+435. first: 5 last:3
+result: 53
+436. first: 9 last:7
+result: 97
+437. first: 2 last:2
+result: 22
+438. first: 9 last:1
+result: 91
+439. first: 4 last:6
+result: 46
+440. first: 3 last:1
+result: 31
+441. first: 8 last:6
+result: 86
+442. first: 4 last:3
+result: 43
+443. first: 6 last:2
+result: 62
+444. first: 5 last:4
+result: 54
+445. first: 5 last:3
+result: 53
+446. first: 9 last:8
+result: 98
+447. first: 5 last:9
+result: 59
+448. first: 3 last:9
+result: 39
+449. first: 6 last:9
+result: 69
+450. first: 4 last:7
+result: 47
+451. first: 7 last:2
+result: 72
+452. first: 7 last:0
+result: 77
+453. first: 7 last:4
+result: 74
+454. first: 2 last:3
+result: 23
+455. first: 2 last:1
+result: 21
+456. first: 2 last:2
+result: 22
+457. first: 3 last:6
+result: 36
+458. first: 6 last:2
+result: 62
+459. first: 7 last:8
+result: 78
+460. first: 1 last:6
+result: 16
+461. first: 9 last:3
+result: 93
+462. first: 8 last:6
+result: 86
+463. first: 4 last:1
+result: 41
+464. first: 6 last:8
+result: 68
+465. first: 7 last:8
+result: 78
+466. first: 6 last:0
+result: 66
+467. first: 7 last:8
+result: 78
+468. first: 3 last:2
+result: 32
+469. first: 1 last:9
+result: 19
+470. first: 5 last:1
+result: 51
+471. first: 7 last:6
+result: 76
+472. first: 2 last:6
+result: 26
+473. first: 2 last:7
+result: 27
+474. first: 8 last:8
+result: 88
+475. first: 9 last:4
+result: 94
+476. first: 9 last:8
+result: 98
+477. first: 2 last:6
+result: 26
+478. first: 9 last:6
+result: 96
+479. first: 1 last:4
+result: 14
+480. first: 9 last:6
+result: 96
+481. first: 9 last:3
+result: 93
+482. first: 1 last:0
+result: 11
+483. first: 3 last:5
+result: 35
+484. first: 5 last:8
+result: 58
+485. first: 4 last:4
+result: 44
+486. first: 2 last:8
+result: 28
+487. first: 3 last:9
+result: 39
+488. first: 6 last:2
+result: 62
+489. first: 3 last:8
+result: 38
+490. first: 8 last:1
+result: 81
+491. first: 9 last:0
+result: 99
+492. first: 5 last:0
+result: 55
+493. first: 4 last:9
+result: 49
+494. first: 8 last:4
+result: 84
+495. first: 9 last:8
+result: 98
+496. first: 8 last:0
+result: 88
+497. first: 3 last:1
+result: 31
+498. first: 7 last:9
+result: 79
+499. first: 3 last:6
+result: 36
+500. first: 6 last:3
+result: 63
+501. first: 8 last:0
+result: 88
+502. first: 8 last:5
+result: 85
+503. first: 9 last:3
+result: 93
+504. first: 7 last:8
+result: 78
+505. first: 8 last:6
+result: 86
+506. first: 6 last:8
+result: 68
+507. first: 4 last:7
+result: 47
+508. first: 7 last:2
+result: 72
+509. first: 3 last:2
+result: 32
+510. first: 5 last:5
+result: 55
+511. first: 9 last:5
+result: 95
+512. first: 7 last:1
+result: 71
+513. first: 8 last:6
+result: 86
+514. first: 6 last:8
+result: 68
+515. first: 7 last:3
+result: 73
+516. first: 5 last:1
+result: 51
+517. first: 8 last:8
+result: 88
+518. first: 1 last:8
+result: 18
+519. first: 3 last:4
+result: 34
+520. first: 5 last:5
+result: 55
+521. first: 4 last:7
+result: 47
+522. first: 6 last:9
+result: 69
+523. first: 1 last:5
+result: 15
+524. first: 7 last:1
+result: 71
+525. first: 4 last:1
+result: 41
+526. first: 8 last:9
+result: 89
+527. first: 3 last:4
+result: 34
+528. first: 8 last:3
+result: 83
+529. first: 2 last:9
+result: 29
+530. first: 4 last:5
+result: 45
+531. first: 5 last:1
+result: 51
+532. first: 1 last:5
+result: 15
+533. first: 8 last:2
+result: 82
+534. first: 5 last:2
+result: 52
+535. first: 2 last:7
+result: 27
+536. first: 1 last:1
+result: 11
+537. first: 2 last:6
+result: 26
+538. first: 7 last:6
+result: 76
+539. first: 1 last:3
+result: 13
+540. first: 1 last:5
+result: 15
+541. first: 6 last:9
+result: 69
+542. first: 1 last:3
+result: 13
+543. first: 7 last:6
+result: 76
+544. first: 7 last:6
+result: 76
+545. first: 1 last:6
+result: 16
+546. first: 8 last:1
+result: 81
+547. first: 4 last:9
+result: 49
+548. first: 9 last:7
+result: 97
+549. first: 4 last:4
+result: 44
+550. first: 5 last:8
+result: 58
+551. first: 4 last:3
+result: 43
+552. first: 5 last:3
+result: 53
+553. first: 8 last:9
+result: 89
+554. first: 4 last:4
+result: 44
+555. first: 4 last:8
+result: 48
+556. first: 9 last:9
+result: 99
+557. first: 1 last:8
+result: 18
+558. first: 1 last:6
+result: 16
+559. first: 7 last:6
+result: 76
+560. first: 4 last:9
+result: 49
+561. first: 2 last:8
+result: 28
+562. first: 6 last:3
+result: 63
+563. first: 5 last:9
+result: 59
+564. first: 4 last:6
+result: 46
+565. first: 3 last:8
+result: 38
+566. first: 9 last:6
+result: 96
+567. first: 2 last:4
+result: 24
+568. first: 7 last:7
+result: 77
+569. first: 7 last:8
+result: 78
+570. first: 8 last:9
+result: 89
+571. first: 4 last:3
+result: 43
+572. first: 2 last:6
+result: 26
+573. first: 1 last:8
+result: 18
+574. first: 2 last:3
+result: 23
+575. first: 9 last:9
+result: 99
+576. first: 8 last:9
+result: 89
+577. first: 1 last:2
+result: 12
+578. first: 4 last:4
+result: 44
+579. first: 5 last:8
+result: 58
+580. first: 9 last:2
+result: 92
+581. first: 6 last:7
+result: 67
+582. first: 8 last:6
+result: 86
+583. first: 4 last:1
+result: 41
+584. first: 9 last:2
+result: 92
+585. first: 6 last:5
+result: 65
+586. first: 1 last:1
+result: 11
+587. first: 6 last:3
+result: 63
+588. first: 8 last:7
+result: 87
+589. first: 9 last:0
+result: 99
+590. first: 4 last:1
+result: 41
+591. first: 3 last:1
+result: 31
+592. first: 9 last:6
+result: 96
+593. first: 5 last:2
+result: 52
+594. first: 1 last:0
+result: 11
+595. first: 9 last:8
+result: 98
+596. first: 2 last:3
+result: 23
+597. first: 6 last:7
+result: 67
+598. first: 2 last:0
+result: 22
+599. first: 7 last:0
+result: 77
+600. first: 8 last:8
+result: 88
+601. first: 2 last:9
+result: 29
+602. first: 8 last:8
+result: 88
+603. first: 3 last:6
+result: 36
+604. first: 1 last:8
+result: 18
+605. first: 3 last:9
+result: 39
+606. first: 5 last:1
+result: 51
+607. first: 7 last:1
+result: 71
+608. first: 8 last:8
+result: 88
+609. first: 6 last:6
+result: 66
+610. first: 4 last:8
+result: 48
+611. first: 5 last:7
+result: 57
+612. first: 2 last:6
+result: 26
+613. first: 2 last:0
+result: 22
+614. first: 1 last:4
+result: 14
+615. first: 4 last:2
+result: 42
+616. first: 1 last:6
+result: 16
+617. first: 6 last:3
+result: 63
+618. first: 8 last:2
+result: 82
+619. first: 1 last:9
+result: 19
+620. first: 5 last:8
+result: 58
+621. first: 4 last:7
+result: 47
+622. first: 4 last:5
+result: 45
+623. first: 7 last:7
+result: 77
+624. first: 9 last:6
+result: 96
+625. first: 7 last:1
+result: 71
+626. first: 1 last:7
+result: 17
+627. first: 4 last:8
+result: 48
+628. first: 2 last:9
+result: 29
+629. first: 8 last:8
+result: 88
+630. first: 6 last:8
+result: 68
+631. first: 6 last:4
+result: 64
+632. first: 5 last:1
+result: 51
+633. first: 8 last:7
+result: 87
+634. first: 1 last:5
+result: 15
+635. first: 7 last:1
+result: 71
+636. first: 4 last:5
+result: 45
+637. first: 3 last:5
+result: 35
+638. first: 9 last:7
+result: 97
+639. first: 5 last:3
+result: 53
+640. first: 7 last:8
+result: 78
+641. first: 9 last:8
+result: 98
+642. first: 8 last:0
+result: 88
+643. first: 3 last:1
+result: 31
+644. first: 2 last:5
+result: 25
+645. first: 4 last:6
+result: 46
+646. first: 9 last:2
+result: 92
+647. first: 1 last:0
+result: 11
+648. first: 7 last:3
+result: 73
+649. first: 6 last:3
+result: 63
+650. first: 8 last:6
+result: 86
+651. first: 9 last:9
+result: 99
+652. first: 1 last:4
+result: 14
+653. first: 6 last:7
+result: 67
+654. first: 4 last:4
+result: 44
+655. first: 1 last:8
+result: 18
+656. first: 9 last:4
+result: 94
+657. first: 1 last:7
+result: 17
+658. first: 3 last:6
+result: 36
+659. first: 6 last:4
+result: 64
+660. first: 2 last:7
+result: 27
+661. first: 4 last:3
+result: 43
+662. first: 7 last:8
+result: 78
+663. first: 3 last:5
+result: 35
+664. first: 9 last:5
+result: 95
+665. first: 1 last:6
+result: 16
+666. first: 6 last:8
+result: 68
+667. first: 1 last:1
+result: 11
+668. first: 9 last:2
+result: 92
+669. first: 7 last:9
+result: 79
+670. first: 2 last:7
+result: 27
+671. first: 2 last:0
+result: 22
+672. first: 3 last:7
+result: 37
+673. first: 3 last:1
+result: 31
+674. first: 9 last:8
+result: 98
+675. first: 7 last:1
+result: 71
+676. first: 2 last:7
+result: 27
+677. first: 8 last:7
+result: 87
+678. first: 1 last:6
+result: 16
+679. first: 6 last:4
+result: 64
+680. first: 9 last:1
+result: 91
+681. first: 8 last:8
+result: 88
+682. first: 3 last:8
+result: 38
+683. first: 6 last:1
+result: 61
+684. first: 2 last:7
+result: 27
+685. first: 5 last:9
+result: 59
+686. first: 2 last:9
+result: 29
+687. first: 8 last:1
+result: 81
+688. first: 8 last:6
+result: 86
+689. first: 6 last:3
+result: 63
+690. first: 9 last:8
+result: 98
+691. first: 3 last:9
+result: 39
+692. first: 5 last:6
+result: 56
+693. first: 8 last:8
+result: 88
+694. first: 7 last:7
+result: 77
+695. first: 2 last:8
+result: 28
+696. first: 5 last:2
+result: 52
+697. first: 3 last:9
+result: 39
+698. first: 9 last:1
+result: 91
+699. first: 8 last:4
+result: 84
+700. first: 2 last:7
+result: 27
+701. first: 3 last:2
+result: 32
+702. first: 6 last:8
+result: 68
+703. first: 2 last:9
+result: 29
+704. first: 8 last:7
+result: 87
+705. first: 8 last:2
+result: 82
+706. first: 4 last:1
+result: 41
+707. first: 6 last:1
+result: 61
+708. first: 3 last:5
+result: 35
+709. first: 6 last:9
+result: 69
+710. first: 5 last:7
+result: 57
+711. first: 8 last:8
+result: 88
+712. first: 3 last:3
+result: 33
+713. first: 4 last:2
+result: 42
+714. first: 4 last:1
+result: 41
+715. first: 6 last:4
+result: 64
+716. first: 8 last:7
+result: 87
+717. first: 4 last:1
+result: 41
+718. first: 7 last:2
+result: 72
+719. first: 7 last:8
+result: 78
+720. first: 1 last:2
+result: 12
+721. first: 5 last:6
+result: 56
+722. first: 6 last:7
+result: 67
+723. first: 3 last:9
+result: 39
+724. first: 2 last:6
+result: 26
+725. first: 7 last:4
+result: 74
+726. first: 7 last:8
+result: 78
+727. first: 6 last:3
+result: 63
+728. first: 3 last:4
+result: 34
+729. first: 1 last:6
+result: 16
+730. first: 6 last:8
+result: 68
+731. first: 2 last:3
+result: 23
+732. first: 5 last:1
+result: 51
+733. first: 6 last:6
+result: 66
+734. first: 2 last:8
+result: 28
+735. first: 2 last:4
+result: 24
+736. first: 3 last:3
+result: 33
+737. first: 2 last:3
+result: 23
+738. first: 9 last:0
+result: 99
+739. first: 8 last:0
+result: 88
+740. first: 7 last:6
+result: 76
+741. first: 3 last:3
+result: 33
+742. first: 1 last:4
+result: 14
+743. first: 4 last:9
+result: 49
+744. first: 1 last:3
+result: 13
+745. first: 1 last:8
+result: 18
+746. first: 7 last:9
+result: 79
+747. first: 4 last:3
+result: 43
+748. first: 1 last:2
+result: 12
+749. first: 8 last:6
+result: 86
+750. first: 4 last:9
+result: 49
+751. first: 2 last:4
+result: 24
+752. first: 9 last:5
+result: 95
+753. first: 2 last:7
+result: 27
+754. first: 4 last:8
+result: 48
+755. first: 7 last:0
+result: 77
+756. first: 1 last:6
+result: 16
+757. first: 6 last:8
+result: 68
+758. first: 8 last:2
+result: 82
+759. first: 8 last:8
+result: 88
+760. first: 6 last:8
+result: 68
+761. first: 6 last:9
+result: 69
+762. first: 3 last:8
+result: 38
+763. first: 2 last:3
+result: 23
+764. first: 7 last:9
+result: 79
+765. first: 8 last:4
+result: 84
+766. first: 4 last:6
+result: 46
+767. first: 5 last:6
+result: 56
+768. first: 2 last:7
+result: 27
+769. first: 2 last:4
+result: 24
+770. first: 1 last:6
+result: 16
+771. first: 1 last:5
+result: 15
+772. first: 8 last:9
+result: 89
+773. first: 3 last:7
+result: 37
+774. first: 9 last:2
+result: 92
+775. first: 8 last:9
+result: 89
+776. first: 6 last:7
+result: 67
+777. first: 2 last:4
+result: 24
+778. first: 1 last:7
+result: 17
+779. first: 9 last:5
+result: 95
+780. first: 9 last:7
+result: 97
+781. first: 7 last:8
+result: 78
+782. first: 9 last:7
+result: 97
+783. first: 8 last:7
+result: 87
+784. first: 9 last:1
+result: 91
+785. first: 4 last:1
+result: 41
+786. first: 3 last:0
+result: 33
+787. first: 3 last:7
+result: 37
+788. first: 8 last:2
+result: 82
+789. first: 1 last:3
+result: 13
+790. first: 9 last:9
+result: 99
+791. first: 9 last:9
+result: 99
+792. first: 9 last:5
+result: 95
+793. first: 3 last:5
+result: 35
+794. first: 2 last:8
+result: 28
+795. first: 6 last:6
+result: 66
+796. first: 4 last:7
+result: 47
+797. first: 1 last:7
+result: 17
+798. first: 5 last:8
+result: 58
+799. first: 8 last:5
+result: 85
+800. first: 4 last:3
+result: 43
+801. first: 4 last:8
+result: 48
+802. first: 1 last:0
+result: 11
+803. first: 2 last:1
+result: 21
+804. first: 9 last:4
+result: 94
+805. first: 8 last:7
+result: 87
+806. first: 6 last:4
+result: 64
+807. first: 6 last:9
+result: 69
+808. first: 6 last:4
+result: 64
+809. first: 9 last:5
+result: 95
+810. first: 2 last:6
+result: 26
+811. first: 7 last:8
+result: 78
+812. first: 8 last:9
+result: 89
+813. first: 2 last:3
+result: 23
+814. first: 1 last:6
+result: 16
+815. first: 2 last:6
+result: 26
+816. first: 6 last:7
+result: 67
+817. first: 4 last:3
+result: 43
+818. first: 6 last:1
+result: 61
+819. first: 1 last:7
+result: 17
+820. first: 8 last:8
+result: 88
+821. first: 6 last:1
+result: 61
+822. first: 8 last:7
+result: 87
+823. first: 3 last:6
+result: 36
+824. first: 2 last:2
+result: 22
+825. first: 2 last:9
+result: 29
+826. first: 4 last:5
+result: 45
+827. first: 4 last:9
+result: 49
+828. first: 1 last:9
+result: 19
+829. first: 4 last:6
+result: 46
+830. first: 2 last:2
+result: 22
+831. first: 4 last:2
+result: 42
+832. first: 3 last:5
+result: 35
+833. first: 8 last:6
+result: 86
+834. first: 1 last:2
+result: 12
+835. first: 7 last:2
+result: 72
+836. first: 9 last:0
+result: 99
+837. first: 3 last:6
+result: 36
+838. first: 2 last:4
+result: 24
+839. first: 3 last:2
+result: 32
+840. first: 5 last:1
+result: 51
+841. first: 3 last:5
+result: 35
+842. first: 2 last:4
+result: 24
+843. first: 9 last:2
+result: 92
+844. first: 8 last:9
+result: 89
+845. first: 7 last:9
+result: 79
+846. first: 6 last:1
+result: 61
+847. first: 7 last:5
+result: 75
+848. first: 8 last:1
+result: 81
+849. first: 9 last:2
+result: 92
+850. first: 9 last:6
+result: 96
+851. first: 4 last:6
+result: 46
+852. first: 6 last:8
+result: 68
+853. first: 9 last:1
+result: 91
+854. first: 2 last:8
+result: 28
+855. first: 3 last:8
+result: 38
+856. first: 3 last:4
+result: 34
+857. first: 3 last:2
+result: 32
+858. first: 4 last:4
+result: 44
+859. first: 7 last:0
+result: 77
+860. first: 1 last:3
+result: 13
+861. first: 9 last:9
+result: 99
+862. first: 9 last:6
+result: 96
+863. first: 8 last:8
+result: 88
+864. first: 7 last:5
+result: 75
+865. first: 6 last:7
+result: 67
+866. first: 2 last:2
+result: 22
+867. first: 6 last:0
+result: 66
+868. first: 8 last:0
+result: 88
+869. first: 8 last:2
+result: 82
+870. first: 7 last:1
+result: 71
+871. first: 1 last:4
+result: 14
+872. first: 8 last:9
+result: 89
+873. first: 5 last:0
+result: 55
+874. first: 5 last:3
+result: 53
+875. first: 2 last:6
+result: 26
+876. first: 5 last:0
+result: 55
+877. first: 6 last:9
+result: 69
+878. first: 2 last:7
+result: 27
+879. first: 2 last:9
+result: 29
+880. first: 4 last:9
+result: 49
+881. first: 6 last:2
+result: 62
+882. first: 7 last:0
+result: 77
+883. first: 6 last:2
+result: 62
+884. first: 5 last:6
+result: 56
+885. first: 4 last:0
+result: 44
+886. first: 1 last:7
+result: 17
+887. first: 9 last:8
+result: 98
+888. first: 4 last:9
+result: 49
+889. first: 9 last:3
+result: 93
+890. first: 5 last:0
+result: 55
+891. first: 2 last:6
+result: 26
+892. first: 3 last:7
+result: 37
+893. first: 3 last:3
+result: 33
+894. first: 1 last:8
+result: 18
+895. first: 4 last:9
+result: 49
+896. first: 9 last:0
+result: 99
+897. first: 2 last:7
+result: 27
+898. first: 2 last:5
+result: 25
+899. first: 7 last:9
+result: 79
+900. first: 6 last:7
+result: 67
+901. first: 5 last:2
+result: 52
+902. first: 3 last:0
+result: 33
+903. first: 2 last:4
+result: 24
+904. first: 8 last:4
+result: 84
+905. first: 7 last:6
+result: 76
+906. first: 5 last:0
+result: 55
+907. first: 2 last:3
+result: 23
+908. first: 4 last:1
+result: 41
+909. first: 6 last:5
+result: 65
+910. first: 6 last:3
+result: 63
+911. first: 4 last:8
+result: 48
+912. first: 1 last:3
+result: 13
+913. first: 3 last:3
+result: 33
+914. first: 9 last:8
+result: 98
+915. first: 3 last:7
+result: 37
+916. first: 4 last:4
+result: 44
+917. first: 2 last:1
+result: 21
+918. first: 1 last:1
+result: 11
+919. first: 1 last:2
+result: 12
+920. first: 1 last:9
+result: 19
+921. first: 2 last:2
+result: 22
+922. first: 3 last:3
+result: 33
+923. first: 7 last:3
+result: 73
+924. first: 1 last:3
+result: 13
+925. first: 7 last:7
+result: 77
+926. first: 5 last:3
+result: 53
+927. first: 7 last:4
+result: 74
+928. first: 7 last:9
+result: 79
+929. first: 4 last:7
+result: 47
+930. first: 1 last:6
+result: 16
+931. first: 4 last:2
+result: 42
+932. first: 6 last:1
+result: 61
+933. first: 1 last:9
+result: 19
+934. first: 3 last:9
+result: 39
+935. first: 2 last:4
+result: 24
+936. first: 1 last:2
+result: 12
+937. first: 2 last:9
+result: 29
+938. first: 4 last:9
+result: 49
+939. first: 2 last:3
+result: 23
+940. first: 7 last:1
+result: 71
+941. first: 2 last:9
+result: 29
+942. first: 3 last:9
+result: 39
+943. first: 3 last:3
+result: 33
+944. first: 4 last:2
+result: 42
+945. first: 1 last:8
+result: 18
+946. first: 3 last:4
+result: 34
+947. first: 2 last:6
+result: 26
+948. first: 1 last:7
+result: 17
+949. first: 7 last:0
+result: 77
+950. first: 6 last:6
+result: 66
+951. first: 1 last:1
+result: 11
+952. first: 8 last:1
+result: 81
+953. first: 4 last:1
+result: 41
+954. first: 2 last:7
+result: 27
+955. first: 2 last:4
+result: 24
+956. first: 2 last:1
+result: 21
+957. first: 8 last:5
+result: 85
+958. first: 8 last:0
+result: 88
+959. first: 7 last:1
+result: 71
+960. first: 9 last:6
+result: 96
+961. first: 6 last:4
+result: 64
+962. first: 8 last:0
+result: 88
+963. first: 7 last:7
+result: 77
+964. first: 4 last:8
+result: 48
+965. first: 7 last:5
+result: 75
+966. first: 1 last:2
+result: 12
+967. first: 7 last:1
+result: 71
+968. first: 7 last:7
+result: 77
+969. first: 9 last:9
+result: 99
+970. first: 3 last:8
+result: 38
+971. first: 1 last:7
+result: 17
+972. first: 8 last:3
+result: 83
+973. first: 9 last:6
+result: 96
+974. first: 3 last:9
+result: 39
+975. first: 8 last:1
+result: 81
+976. first: 5 last:6
+result: 56
+977. first: 7 last:3
+result: 73
+978. first: 2 last:2
+result: 22
+979. first: 4 last:7
+result: 47
+980. first: 4 last:8
+result: 48
+981. first: 4 last:7
+result: 47
+982. first: 1 last:6
+result: 16
+983. first: 2 last:4
+result: 24
+984. first: 3 last:8
+result: 38
+985. first: 9 last:4
+result: 94
+986. first: 2 last:6
+result: 26
+987. first: 6 last:8
+result: 68
+988. first: 9 last:3
+result: 93
+989. first: 3 last:7
+result: 37
+990. first: 2 last:2
+result: 22
+991. first: 3 last:1
+result: 31
+992. first: 6 last:4
+result: 64
+993. first: 5 last:0
+result: 55
+994. first: 7 last:4
+result: 74
+995. first: 3 last:0
+result: 33
+996. first: 1 last:7
+result: 17
+997. first: 6 last:2
+result: 62
+998. first: 2 last:0
+result: 22
+999. first: 5 last:2
+result: 52
+1000. first: 8 last:6
+result: 86
+1001. first: 0 last:0
+result: 0
+54172
