@@ -6,7 +6,7 @@
 	.globl	_Z8isNumberPcS_Pi
 	.type	_Z8isNumberPcS_Pi, @function
 _Z8isNumberPcS_Pi:
-.LFB2113:
+.LFB4453:
 	.cfi_startproc
 	pushq	%rbp
 	.cfi_def_cfa_offset 16
@@ -55,7 +55,7 @@ _Z8isNumberPcS_Pi:
 	movq	-8(%rbp), %rax
 	movzbl	(%rax), %eax
 	cmpb	$48, %al
-	jne	.L4
+	jne	.L3
 .L2:
 	movq	-8(%rbp), %rax
 	movzbl	(%rax), %edx
@@ -66,17 +66,271 @@ _Z8isNumberPcS_Pi:
 	leal	1(%rax), %edx
 	movq	-24(%rbp), %rax
 	movl	%edx, (%rax)
+	jmp	.L4
+.L3:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$111, %al
+	jne	.L5
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$110, %al
+	jne	.L5
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L5
+	movq	-16(%rbp), %rax
+	movb	$49, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L5:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$116, %al
+	jne	.L6
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$119, %al
+	jne	.L6
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$111, %al
+	jne	.L6
+	movq	-16(%rbp), %rax
+	movb	$50, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L6:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$116, %al
+	jne	.L7
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$104, %al
+	jne	.L7
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$114, %al
+	jne	.L7
+	movq	-8(%rbp), %rax
+	addq	$3, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L7
+	movq	-8(%rbp), %rax
+	addq	$4, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L7
+	movq	-16(%rbp), %rax
+	movb	$51, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L7:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$102, %al
+	jne	.L8
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$111, %al
+	jne	.L8
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$117, %al
+	jne	.L8
+	movq	-8(%rbp), %rax
+	addq	$3, %rax
+	movzbl	(%rax), %eax
+	cmpb	$114, %al
+	jne	.L8
+	movq	-16(%rbp), %rax
+	movb	$52, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L8:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$102, %al
+	jne	.L9
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$105, %al
+	jne	.L9
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$118, %al
+	jne	.L9
+	movq	-8(%rbp), %rax
+	addq	$3, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L9
+	movq	-16(%rbp), %rax
+	movb	$53, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L9:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$115, %al
+	jne	.L10
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$105, %al
+	jne	.L10
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$120, %al
+	jne	.L10
+	movq	-16(%rbp), %rax
+	movb	$54, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L10:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$115, %al
+	jne	.L11
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L11
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$118, %al
+	jne	.L11
+	movq	-8(%rbp), %rax
+	addq	$3, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L11
+	movq	-8(%rbp), %rax
+	addq	$4, %rax
+	movzbl	(%rax), %eax
+	cmpb	$110, %al
+	jne	.L11
+	movq	-16(%rbp), %rax
+	movb	$55, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L11:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L12
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$105, %al
+	jne	.L12
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$103, %al
+	jne	.L12
+	movq	-8(%rbp), %rax
+	addq	$3, %rax
+	movzbl	(%rax), %eax
+	cmpb	$104, %al
+	jne	.L12
+	movq	-8(%rbp), %rax
+	addq	$4, %rax
+	movzbl	(%rax), %eax
+	cmpb	$116, %al
+	jne	.L12
+	movq	-16(%rbp), %rax
+	movb	$56, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L4
+.L12:
+	movq	-8(%rbp), %rax
+	movzbl	(%rax), %eax
+	cmpb	$110, %al
+	jne	.L13
+	movq	-8(%rbp), %rax
+	addq	$1, %rax
+	movzbl	(%rax), %eax
+	cmpb	$105, %al
+	jne	.L13
+	movq	-8(%rbp), %rax
+	addq	$2, %rax
+	movzbl	(%rax), %eax
+	cmpb	$110, %al
+	jne	.L13
+	movq	-8(%rbp), %rax
+	addq	$3, %rax
+	movzbl	(%rax), %eax
+	cmpb	$101, %al
+	jne	.L13
+	movq	-16(%rbp), %rax
+	movb	$57, (%rax)
+	movq	-24(%rbp), %rax
+	movl	(%rax), %eax
+	leal	1(%rax), %edx
+	movq	-24(%rbp), %rax
+	movl	%edx, (%rax)
+	jmp	.L13
 .L4:
+.L13:
 	nop
 	popq	%rbp
 	.cfi_def_cfa 7, 8
 	ret
 	.cfi_endproc
-.LFE2113:
+.LFE4453:
 	.size	_Z8isNumberPcS_Pi, .-_Z8isNumberPcS_Pi
 	.section	.rodata
 .LC0:
-	.string	"first: "
+	.string	". first: "
 .LC1:
 	.string	" last:"
 .LC2:
@@ -87,10 +341,10 @@ _Z8isNumberPcS_Pi:
 	.globl	main
 	.type	main, @function
 main:
-.LFB2114:
+.LFB4454:
 	.cfi_startproc
 	.cfi_personality 0x9b,DW.ref.__gxx_personality_v0
-	.cfi_lsda 0x1b,.LLSDA2114
+	.cfi_lsda 0x1b,.LLSDA4454
 	pushq	%rbp
 	.cfi_def_cfa_offset 16
 	.cfi_offset 6, -16
@@ -118,9 +372,9 @@ main:
 	movq	%rax, %rdi
 	call	_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC1Ev@PLT
 	movl	$0, -596(%rbp)
-	jmp	.L6
-.L13:
 	movl	$0, -592(%rbp)
+	jmp	.L15
+.L22:
 	leaq	-576(%rbp), %rdx
 	leaq	-544(%rbp), %rax
 	movq	%rdx, %rsi
@@ -131,33 +385,33 @@ main:
 	movq	%rax, %rdi
 	call	_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE4dataEv@PLT
 	movq	%rax, -584(%rbp)
-	movb	$48, -602(%rbp)
-	movb	$48, -601(%rbp)
-	movl	$0, -600(%rbp)
+	movb	$48, -606(%rbp)
+	movb	$48, -605(%rbp)
+	movl	$0, -604(%rbp)
 	movl	$0, -588(%rbp)
-	jmp	.L7
-.L10:
-	movl	-600(%rbp), %eax
+	jmp	.L16
+.L19:
+	movl	-604(%rbp), %eax
 	testl	%eax, %eax
-	jne	.L8
-	leaq	-600(%rbp), %rdx
-	leaq	-602(%rbp), %rcx
+	jne	.L17
+	leaq	-604(%rbp), %rdx
+	leaq	-606(%rbp), %rcx
 	movq	-584(%rbp), %rax
 	movq	%rcx, %rsi
 	movq	%rax, %rdi
 	call	_Z8isNumberPcS_Pi
-	jmp	.L9
-.L8:
-	leaq	-600(%rbp), %rdx
-	leaq	-601(%rbp), %rcx
+	jmp	.L18
+.L17:
+	leaq	-604(%rbp), %rdx
+	leaq	-605(%rbp), %rcx
 	movq	-584(%rbp), %rax
 	movq	%rcx, %rsi
 	movq	%rax, %rdi
 	call	_Z8isNumberPcS_Pi
-.L9:
+.L18:
 	addq	$1, -584(%rbp)
 	addl	$1, -588(%rbp)
-.L7:
+.L16:
 	movl	-588(%rbp), %eax
 	movslq	%eax, %rbx
 	leaq	-576(%rbp), %rax
@@ -166,15 +420,21 @@ main:
 	cmpq	%rax, %rbx
 	setb	%al
 	testb	%al, %al
-	jne	.L10
+	jne	.L19
 	movq	$0, -584(%rbp)
-	leaq	.LC0(%rip), %rax
-	movq	%rax, %rsi
+	addl	$1, -592(%rbp)
+	movl	-592(%rbp), %eax
+	movl	%eax, %esi
 	leaq	_ZSt4cout(%rip), %rax
 	movq	%rax, %rdi
+	call	_ZNSolsEi@PLT
+	movq	%rax, %rdx
+	leaq	.LC0(%rip), %rax
+	movq	%rax, %rsi
+	movq	%rdx, %rdi
 	call	_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc@PLT
 	movq	%rax, %rdx
-	movzbl	-602(%rbp), %eax
+	movzbl	-606(%rbp), %eax
 	movsbl	%al, %eax
 	movl	%eax, %esi
 	movq	%rdx, %rdi
@@ -185,7 +445,7 @@ main:
 	movq	%rdx, %rdi
 	call	_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc@PLT
 	movq	%rax, %rdx
-	movzbl	-601(%rbp), %eax
+	movzbl	-605(%rbp), %eax
 	movsbl	%al, %eax
 	movl	%eax, %esi
 	movq	%rdx, %rdi
@@ -195,10 +455,10 @@ main:
 	movq	%rax, %rsi
 	movq	%rdx, %rdi
 	call	_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc@PLT
-	movzbl	-601(%rbp), %eax
+	movzbl	-605(%rbp), %eax
 	cmpb	$48, %al
-	jne	.L11
-	movzbl	-602(%rbp), %eax
+	jne	.L20
+	movzbl	-606(%rbp), %eax
 	movsbl	%al, %eax
 	leal	-48(%rax), %edx
 	movl	%edx, %eax
@@ -206,10 +466,10 @@ main:
 	addl	%edx, %eax
 	addl	%eax, %eax
 	addl	%edx, %eax
-	movl	%eax, -592(%rbp)
-	jmp	.L12
-.L11:
-	movzbl	-602(%rbp), %eax
+	movl	%eax, -600(%rbp)
+	jmp	.L21
+.L20:
+	movzbl	-606(%rbp), %eax
 	movsbl	%al, %eax
 	leal	-48(%rax), %edx
 	movl	%edx, %eax
@@ -217,19 +477,19 @@ main:
 	addl	%edx, %eax
 	addl	%eax, %eax
 	movl	%eax, %edx
-	movzbl	-601(%rbp), %eax
+	movzbl	-605(%rbp), %eax
 	movsbl	%al, %eax
 	addl	%edx, %eax
 	subl	$48, %eax
-	movl	%eax, -592(%rbp)
-.L12:
+	movl	%eax, -600(%rbp)
+.L21:
 	leaq	.LC3(%rip), %rax
 	movq	%rax, %rsi
 	leaq	_ZSt4cout(%rip), %rax
 	movq	%rax, %rdi
 	call	_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc@PLT
 	movq	%rax, %rdx
-	movl	-592(%rbp), %eax
+	movl	-600(%rbp), %eax
 	movl	%eax, %esi
 	movq	%rdx, %rdi
 	call	_ZNSolsEi@PLT
@@ -238,16 +498,16 @@ main:
 	movq	%rax, %rsi
 	movq	%rdx, %rdi
 	call	_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc@PLT
-	movl	-592(%rbp), %eax
+	movl	-600(%rbp), %eax
 	addl	%eax, -596(%rbp)
-.L6:
+.L15:
 	leaq	-544(%rbp), %rax
 	addq	$256, %rax
 	movq	%rax, %rdi
 	call	_ZNKSt9basic_iosIcSt11char_traitsIcEE3eofEv@PLT
 	xorl	$1, %eax
 	testb	%al, %al
-	jne	.L13
+	jne	.L22
 	movl	-596(%rbp), %eax
 	movl	%eax, %esi
 	leaq	_ZSt4cout(%rip), %rax
@@ -269,9 +529,9 @@ main:
 	movl	%ebx, %eax
 	movq	-24(%rbp), %rdx
 	subq	%fs:40, %rdx
-	je	.L17
-	jmp	.L19
-.L18:
+	je	.L26
+	jmp	.L28
+.L27:
 	movq	%rax, %rbx
 	leaq	-576(%rbp), %rax
 	movq	%rax, %rdi
@@ -282,43 +542,43 @@ main:
 	movq	%rbx, %rax
 	movq	-24(%rbp), %rdx
 	subq	%fs:40, %rdx
-	je	.L16
+	je	.L25
 	call	__stack_chk_fail@PLT
-.L16:
+.L25:
 	movq	%rax, %rdi
 .LEHB2:
 	call	_Unwind_Resume@PLT
 .LEHE2:
-.L19:
+.L28:
 	call	__stack_chk_fail@PLT
-.L17:
+.L26:
 	movq	-8(%rbp), %rbx
 	leave
 	.cfi_def_cfa 7, 8
 	ret
 	.cfi_endproc
-.LFE2114:
+.LFE4454:
 	.globl	__gxx_personality_v0
 	.section	.gcc_except_table,"a",@progbits
-.LLSDA2114:
+.LLSDA4454:
 	.byte	0xff
 	.byte	0xff
 	.byte	0x1
-	.uleb128 .LLSDACSE2114-.LLSDACSB2114
-.LLSDACSB2114:
-	.uleb128 .LEHB0-.LFB2114
+	.uleb128 .LLSDACSE4454-.LLSDACSB4454
+.LLSDACSB4454:
+	.uleb128 .LEHB0-.LFB4454
 	.uleb128 .LEHE0-.LEHB0
 	.uleb128 0
 	.uleb128 0
-	.uleb128 .LEHB1-.LFB2114
+	.uleb128 .LEHB1-.LFB4454
 	.uleb128 .LEHE1-.LEHB1
-	.uleb128 .L18-.LFB2114
+	.uleb128 .L27-.LFB4454
 	.uleb128 0
-	.uleb128 .LEHB2-.LFB2114
+	.uleb128 .LEHB2-.LFB4454
 	.uleb128 .LEHE2-.LEHB2
 	.uleb128 0
 	.uleb128 0
-.LLSDACSE2114:
+.LLSDACSE4454:
 	.text
 	.size	main, .-main
 	.section	.rodata
