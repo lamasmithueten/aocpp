@@ -29,7 +29,6 @@ int main(int argc, char **argv){
 	char *ptr;
 	int result;
 	int sum = 0;
-	int rotation = 0;
 	while (!inputfile.eof()){
 		std::getline(inputfile, line);
 		ptr=line.data();
@@ -46,10 +45,8 @@ int main(int argc, char **argv){
 			ptr++;
 		}
 		ptr=NULL;
-		std::cout << ++rotation << ". first: "<< first <<" last:" <<last << "\n";
 		if(last=='0')result=first -'0'+(first-'0')*10;
 		else result =(first-'0')*10+last-'0';
-		std::cout << "result: "<<result << "\n";
 		sum += result;
 	}
 	std::cout << sum <<"\n";
