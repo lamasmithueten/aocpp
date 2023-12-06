@@ -1,0 +1,631 @@
+variable: 31 variable: 46 variable: 60 variable: 37 variable: 99 
+Bonus: 16
+99 46 62 92 60 37 52 56 41 31 
+variable: 98 variable: 50 variable: 55 variable: 93 variable: 83 variable: 60 variable: 40 variable: 96 variable: 26 
+Bonus: 256
+98 96 50 60 7 40 83 93 55 26 
+variable: 21 variable: 5 variable: 29 variable: 61 variable: 15 variable: 53 variable: 82 
+Bonus: 64
+82 8 12 15 53 23 29 61 5 21 
+variable: 22 variable: 38 variable: 68 variable: 52 variable: 23 variable: 57 variable: 74 variable: 31 variable: 60 variable: 77 
+Bonus: 512
+68 22 77 52 23 60 57 31 74 38 
+variable: 94 variable: 79 variable: 38 variable: 19 variable: 14 variable: 47 variable: 8 variable: 31 variable: 15 variable: 23 
+Bonus: 512
+94 23 38 14 31 47 8 15 19 79 
+variable: 19 variable: 26 variable: 99 variable: 56 variable: 46 variable: 55 variable: 58 variable: 37 variable: 14 
+Bonus: 256
+37 56 14 26 46 19 58 99 41 55 
+variable: 68 variable: 92 variable: 62 variable: 81 
+Bonus: 8
+68 13 44 81 92 43 9 78 85 62 
+variable: 88 variable: 24 variable: 66 variable: 86 variable: 90 variable: 71 variable: 73 variable: 95 variable: 38 variable: 22 
+Bonus: 512
+73 86 24 66 38 95 71 90 88 22 
+variable: 71 variable: 22 variable: 85 variable: 98 variable: 65 variable: 59 
+Bonus: 32
+98 71 24 85 11 74 22 35 65 59 
+variable: 86 variable: 77 variable: 5 variable: 60 variable: 76 variable: 33 variable: 42 variable: 87 variable: 43 variable: 62 
+Bonus: 512
+5 87 77 60 62 86 42 33 43 76 
+variable: 58 variable: 55 variable: 62 variable: 42 
+Bonus: 8
+55 61 40 88 59 58 62 42 9 71 
+variable: 25 variable: 15 variable: 89 variable: 82 variable: 26 variable: 70 variable: 17 variable: 56 variable: 44 
+Bonus: 256
+15 25 80 89 26 44 17 56 82 70 
+variable: 66 variable: 42 variable: 53 variable: 72 variable: 57 variable: 49 variable: 17 variable: 10 variable: 47 variable: 99 
+Bonus: 512
+72 99 42 47 10 66 17 53 49 57 
+variable: 26 variable: 4 variable: 10 variable: 73 variable: 45 variable: 75 variable: 36 variable: 39 
+Bonus: 128
+36 26 75 45 39 10 73 4 52 97 
+variable: 15 variable: 57 variable: 79 
+Bonus: 4
+79 15 53 44 50 57 99 55 61 59 
+variable: 83 variable: 53 
+Bonus: 2
+1 46 37 33 53 23 83 40 95 57 
+variable: 39 
+Bonus: 1
+33 17 50 35 39 95 22 67 76 47 
+variable: 64 variable: 2 variable: 30 
+Bonus: 4
+64 15 40 93 58 22 2 53 30 92 
+
+Bonus: 0
+97 95 42 67 18 69 54 94 10 5 
+variable: 14 variable: 83 
+Bonus: 2
+69 87 4 30 13 63 74 23 83 14 
+variable: 72 variable: 16 
+Bonus: 2
+67 33 16 11 42 10 27 46 72 37 
+variable: 27 variable: 86 
+Bonus: 2
+27 82 94 86 50 91 21 70 14 76 
+
+Bonus: 0
+95 97 54 38 34 16 15 2 64 6 
+
+Bonus: 0
+96 44 79 9 73 3 52 17 63 98 
+variable: 41 variable: 88 variable: 50 variable: 95 variable: 4 variable: 24 variable: 60 variable: 18 variable: 86 variable: 19 
+Bonus: 512
+41 19 88 60 86 50 18 95 24 4 
+variable: 40 variable: 15 variable: 3 variable: 96 variable: 92 variable: 55 variable: 5 variable: 62 
+Bonus: 128
+5 21 3 15 92 96 62 55 41 40 
+variable: 71 variable: 54 variable: 55 variable: 57 variable: 24 variable: 27 variable: 64 
+Bonus: 64
+71 24 54 64 30 27 26 57 55 85 
+variable: 39 variable: 71 variable: 97 variable: 92 variable: 56 variable: 98 variable: 40 variable: 43 variable: 41 variable: 91 
+Bonus: 512
+98 39 92 41 97 71 91 43 40 56 
+variable: 94 
+Bonus: 1
+36 94 22 10 41 40 78 70 95 89 
+variable: 78 variable: 56 variable: 39 variable: 77 variable: 98 variable: 79 variable: 35 
+Bonus: 64
+78 88 77 79 61 56 98 39 68 35 
+variable: 70 variable: 34 variable: 73 variable: 45 
+Bonus: 8
+34 73 75 54 99 27 70 89 62 45 
+variable: 96 variable: 6 variable: 12 variable: 58 variable: 2 variable: 60 variable: 4 variable: 64 
+Bonus: 128
+96 26 4 32 12 6 64 2 58 60 
+variable: 32 variable: 46 
+Bonus: 2
+78 81 10 46 32 16 12 95 53 27 
+variable: 30 variable: 21 variable: 8 variable: 16 
+Bonus: 8
+23 80 22 10 30 50 89 8 21 16 
+variable: 23 variable: 88 
+Bonus: 2
+51 86 59 85 23 42 41 88 83 63 
+variable: 38 variable: 56 variable: 35 
+Bonus: 4
+56 60 49 10 35 38 28 75 21 40 
+variable: 52 variable: 13 
+Bonus: 2
+54 81 13 1 52 34 98 91 65 49 
+
+Bonus: 0
+1 78 73 52 53 64 66 47 96 77 
+variable: 49 variable: 74 
+Bonus: 2
+98 71 74 50 62 59 58 35 49 60 
+variable: 27 
+Bonus: 1
+4 31 39 27 97 41 98 6 43 54 
+
+Bonus: 0
+28 21 88 19 33 36 30 70 64 81 
+variable: 32 variable: 4 variable: 27 variable: 74 variable: 20 variable: 25 variable: 93 variable: 18 variable: 66 variable: 65 
+Bonus: 512
+4 93 74 66 18 27 25 20 32 65 
+variable: 93 variable: 12 variable: 65 variable: 34 variable: 13 variable: 18 
+Bonus: 32
+95 94 41 18 65 93 13 25 12 34 
+variable: 74 variable: 61 variable: 91 variable: 49 variable: 52 variable: 53 
+Bonus: 32
+61 49 74 81 5 91 37 52 6 53 
+variable: 64 variable: 29 variable: 14 
+Bonus: 4
+30 1 29 37 64 4 72 14 78 83 
+variable: 90 variable: 80 variable: 30 variable: 25 variable: 61 
+Bonus: 16
+80 61 25 90 50 5 11 30 35 37 
+variable: 12 variable: 55 variable: 29 variable: 90 
+Bonus: 8
+29 72 76 45 58 2 55 73 12 90 
+variable: 48 variable: 76 variable: 4 variable: 41 variable: 31 variable: 75 variable: 58 variable: 69 variable: 14 variable: 51 
+Bonus: 512
+76 4 75 31 14 41 48 58 51 69 
+variable: 29 variable: 35 variable: 8 variable: 16 variable: 86 
+Bonus: 16
+81 35 86 29 85 28 16 8 18 15 
+variable: 92 variable: 11 variable: 54 variable: 3 variable: 26 variable: 5 variable: 71 variable: 74 variable: 36 variable: 35 
+Bonus: 512
+74 5 11 36 71 92 54 3 26 35 
+variable: 51 variable: 24 variable: 53 
+Bonus: 4
+58 18 51 75 22 48 53 52 77 24 
+
+Bonus: 0
+22 83 45 29 47 18 89 38 5 63 
+variable: 17 variable: 33 variable: 73 variable: 83 variable: 45 variable: 21 variable: 97 variable: 14 variable: 18 
+Bonus: 256
+33 97 73 45 14 56 21 18 17 83 
+variable: 1 variable: 5 variable: 75 variable: 38 variable: 59 variable: 54 
+Bonus: 32
+54 38 17 78 1 59 32 5 41 75 
+variable: 75 
+Bonus: 1
+75 42 62 53 35 84 6 20 40 10 
+variable: 8 variable: 79 variable: 31 variable: 78 variable: 20 variable: 64 variable: 56 variable: 96 
+Bonus: 128
+31 79 49 20 8 56 78 38 96 64 
+variable: 27 variable: 56 variable: 71 variable: 51 variable: 85 variable: 76 
+Bonus: 32
+85 37 76 51 7 60 16 56 27 71 
+variable: 49 variable: 21 variable: 30 variable: 89 variable: 88 variable: 79 variable: 65 variable: 82 
+Bonus: 128
+79 82 21 48 89 88 65 49 30 68 
+variable: 89 variable: 83 variable: 62 variable: 31 variable: 76 variable: 28 variable: 94 
+Bonus: 64
+31 83 87 62 28 76 94 89 22 46 
+variable: 30 variable: 68 
+Bonus: 2
+23 34 26 59 94 24 88 68 77 30 
+variable: 52 variable: 81 variable: 51 variable: 75 
+Bonus: 8
+17 46 97 52 55 51 81 75 4 14 
+
+Bonus: 0
+97 52 29 36 93 3 77 84 45 41 
+
+Bonus: 0
+9 74 61 5 66 95 59 56 51 19 
+variable: 16 variable: 57 
+Bonus: 2
+97 25 57 38 14 15 51 75 16 68 
+variable: 78 
+Bonus: 1
+74 42 66 63 84 41 76 78 8 95 
+
+Bonus: 0
+53 10 22 55 68 30 44 64 38 51 
+variable: 2 variable: 58 variable: 85 variable: 71 variable: 78 variable: 10 variable: 54 
+Bonus: 64
+30 40 95 71 85 2 10 54 58 78 
+
+Bonus: 0
+26 32 31 3 25 65 55 29 24 99 
+variable: 52 variable: 22 variable: 96 variable: 29 variable: 90 variable: 72 variable: 73 variable: 39 
+Bonus: 128
+96 29 40 52 39 73 38 72 90 22 
+variable: 45 variable: 66 variable: 2 variable: 35 variable: 37 variable: 61 variable: 48 variable: 18 variable: 67 variable: 98 
+Bonus: 512
+37 66 45 2 98 67 18 35 61 48 
+variable: 56 variable: 39 variable: 55 variable: 9 variable: 34 variable: 91 variable: 48 
+Bonus: 64
+52 48 91 95 9 55 37 56 34 39 
+variable: 77 variable: 43 
+Bonus: 2
+43 15 49 52 69 77 40 46 78 75 
+
+Bonus: 0
+21 39 86 8 13 66 61 67 96 28 
+variable: 96 variable: 16 variable: 60 variable: 46 variable: 71 variable: 38 
+Bonus: 32
+60 70 73 38 71 16 34 46 6 96 
+variable: 54 variable: 37 variable: 39 variable: 30 variable: 18 variable: 80 
+Bonus: 32
+61 86 47 54 72 37 30 18 39 80 
+variable: 93 variable: 96 variable: 9 variable: 51 
+Bonus: 8
+90 9 82 52 93 51 26 44 33 96 
+variable: 11 variable: 87 variable: 31 variable: 97 
+Bonus: 8
+66 31 11 90 97 12 85 10 87 52 
+variable: 25 
+Bonus: 1
+44 25 92 80 8 73 21 20 83 82 
+variable: 71 variable: 37 variable: 13 variable: 70 
+Bonus: 8
+92 22 37 1 9 98 42 70 71 13 
+5variable: 77 variable: 15 variable: 22 
+Bonus: 4
+77 81 91 15 6 22 5 79 98 33 
+
+Bonus: 0
+5 66 94 92 59 42 6 53 60 80 
+variable: 51 
+Bonus: 1
+2 77 93 21 3 51 65 23 83 45 
+
+Bonus: 0
+51 80 73 74 21 64 26 45 46 79 
+variable: 85 variable: 55 variable: 87 variable: 20 variable: 88 variable: 89 variable: 38 variable: 3 variable: 44 variable: 90 
+Bonus: 512
+85 89 20 90 44 38 87 88 55 3 
+variable: 48 variable: 85 variable: 65 
+Bonus: 4
+87 73 32 1 85 92 65 41 93 48 
+variable: 61 variable: 57 variable: 71 variable: 76 variable: 28 variable: 50 variable: 59 
+Bonus: 64
+98 28 76 61 50 97 45 59 57 71 
+variable: 56 variable: 33 variable: 79 variable: 10 variable: 91 variable: 23 variable: 8 variable: 39 variable: 17 variable: 93 
+Bonus: 512
+8 39 56 10 33 91 93 23 79 17 
+variable: 35 variable: 20 variable: 96 variable: 54 variable: 38 variable: 29 variable: 31 variable: 60 variable: 50 variable: 97 
+Bonus: 512
+29 60 20 31 50 38 96 97 54 35 
+variable: 85 variable: 68 variable: 33 variable: 77 variable: 24 variable: 23 
+Bonus: 32
+20 85 33 84 23 24 19 77 68 26 
+variable: 89 variable: 9 variable: 12 variable: 48 variable: 78 variable: 92 variable: 54 variable: 56 
+Bonus: 128
+43 48 92 89 56 12 54 78 9 14 
+variable: 87 variable: 86 
+Bonus: 2
+43 7 86 10 47 66 33 62 8 87 
+variable: 71 variable: 77 variable: 35 variable: 66 variable: 8 
+Bonus: 16
+71 19 66 35 77 74 56 15 8 75 
+variable: 65 variable: 70 variable: 75 variable: 98 variable: 2 variable: 60 variable: 92 variable: 11 variable: 77 variable: 53 
+Bonus: 512
+11 98 2 60 92 77 70 75 53 65 
+
+Bonus: 0
+38 59 82 85 65 51 5 72 37 75 
+variable: 88 variable: 69 variable: 60 variable: 26 variable: 71 variable: 1 variable: 44 variable: 27 variable: 50 variable: 38 
+Bonus: 512
+44 26 1 60 71 88 50 38 27 69 
+variable: 57 variable: 50 
+Bonus: 2
+62 97 57 99 48 91 50 35 78 26 
+variable: 27 
+Bonus: 1
+39 82 45 56 86 88 63 95 52 27 
+variable: 68 variable: 58 variable: 72 variable: 3 variable: 16 variable: 89 variable: 64 
+Bonus: 64
+16 3 72 97 64 68 58 15 37 89 
+variable: 87 variable: 6 variable: 13 
+Bonus: 4
+41 90 11 70 13 92 4 87 6 12 
+variable: 95 
+Bonus: 1
+33 84 70 12 63 95 57 83 66 94 
+
+Bonus: 0
+42 89 68 72 14 20 50 22 71 10 
+variable: 55 variable: 94 variable: 50 
+Bonus: 4
+95 38 4 55 94 50 68 11 56 17 
+
+Bonus: 0
+78 75 96 32 68 33 37 39 28 73 
+
+Bonus: 0
+88 99 34 79 12 14 97 35 75 29 
+
+Bonus: 0
+98 8 99 61 88 84 1 41 31 10 
+
+Bonus: 0
+67 35 98 56 14 24 75 90 83 34 
+variable: 59 variable: 77 variable: 93 variable: 18 variable: 46 variable: 71 variable: 87 variable: 79 variable: 8 variable: 73 
+Bonus: 512
+59 77 79 71 8 73 93 46 18 87 
+variable: 17 variable: 42 variable: 49 variable: 2 variable: 65 variable: 52 
+Bonus: 32
+65 42 53 83 52 28 2 50 17 49 
+variable: 58 variable: 90 variable: 91 variable: 30 variable: 9 variable: 46 variable: 97 variable: 10 variable: 11 variable: 23 
+Bonus: 512
+9 97 46 11 23 91 10 30 58 90 
+variable: 8 variable: 61 variable: 38 variable: 18 variable: 47 variable: 36 variable: 44 
+Bonus: 64
+38 89 44 8 10 61 18 11 47 36 
+variable: 5 variable: 70 variable: 90 variable: 71 variable: 62 variable: 18 variable: 1 
+Bonus: 64
+1 3 62 17 70 69 18 71 90 5 
+variable: 30 variable: 82 variable: 2 variable: 1 variable: 19 variable: 95 variable: 3 variable: 23 
+Bonus: 128
+3 19 30 2 1 23 14 6 95 82 
+variable: 45 variable: 40 variable: 64 variable: 23 variable: 84 variable: 74 variable: 65 variable: 76 variable: 38 variable: 10 
+Bonus: 512
+23 10 40 84 65 76 64 38 74 45 
+variable: 31 variable: 35 
+Bonus: 2
+11 98 33 35 31 14 28 91 81 85 
+variable: 84 variable: 94 variable: 81 variable: 13 variable: 19 variable: 36 variable: 3 
+Bonus: 64
+19 72 36 87 84 13 81 3 90 94 
+variable: 29 variable: 53 variable: 13 variable: 67 variable: 75 
+Bonus: 16
+13 75 5 29 67 65 74 82 8 53 
+variable: 70 variable: 15 variable: 41 
+Bonus: 4
+94 24 87 15 76 70 98 68 41 25 
+variable: 28 variable: 72 variable: 74 variable: 30 variable: 42 
+Bonus: 16
+72 28 73 30 33 36 42 66 4 74 
+variable: 38 variable: 29 variable: 80 variable: 5 variable: 60 variable: 37 variable: 34 
+Bonus: 64
+5 37 38 60 76 78 80 29 34 88 
+variable: 14 variable: 88 variable: 34 variable: 9 variable: 28 
+Bonus: 16
+9 41 14 88 34 28 77 96 42 23 
+variable: 18 variable: 9 variable: 56 variable: 17 variable: 46 
+Bonus: 16
+14 17 97 68 9 18 32 2 46 56 
+variable: 51 variable: 99 
+Bonus: 2
+91 51 99 50 90 60 81 61 94 18 
+variable: 85 variable: 53 
+Bonus: 2
+91 85 26 99 53 10 25 97 76 16 
+variable: 35 variable: 39 variable: 12 
+Bonus: 4
+97 64 48 61 35 45 12 39 89 33 
+variable: 21 variable: 86 
+Bonus: 2
+63 16 92 55 1 61 86 99 21 48 
+variable: 33 
+Bonus: 1
+97 73 82 26 3 33 54 10 29 30 
+
+Bonus: 0
+54 24 8 45 47 88 86 6 35 75 
+variable: 11 variable: 93 variable: 80 variable: 73 variable: 92 variable: 76 variable: 36 variable: 52 variable: 24 
+Bonus: 256
+94 11 73 52 24 36 76 80 93 92 
+variable: 37 variable: 90 variable: 26 variable: 64 variable: 93 variable: 16 variable: 60 variable: 47 
+Bonus: 128
+47 26 37 60 90 93 16 69 52 64 
+variable: 32 variable: 39 variable: 52 variable: 98 variable: 16 variable: 26 variable: 62 variable: 48 
+Bonus: 128
+55 62 26 32 39 38 48 98 52 16 
+variable: 70 variable: 83 variable: 57 variable: 39 variable: 92 variable: 29 variable: 44 variable: 79 variable: 24 variable: 89 
+Bonus: 512
+24 44 79 83 89 39 57 70 92 29 
+variable: 2 variable: 23 variable: 49 variable: 72 variable: 1 variable: 30 variable: 8 variable: 39 variable: 68 variable: 84 
+Bonus: 512
+8 1 2 72 30 68 23 84 49 39 
+variable: 37 variable: 28 variable: 61 variable: 92 variable: 46 variable: 59 
+Bonus: 32
+76 28 92 6 54 2 46 37 59 61 
+variable: 1 variable: 69 
+Bonus: 2
+69 73 87 26 2 63 1 41 88 96 
+variable: 57 
+Bonus: 1
+76 99 25 95 57 93 83 33 62 44 
+variable: 76 variable: 56 variable: 33 variable: 70 variable: 78 variable: 50 variable: 40 variable: 11 variable: 67 variable: 59 
+Bonus: 512
+78 40 11 33 70 76 67 50 56 59 
+
+Bonus: 0
+90 76 40 18 64 17 13 41 27 34 
+
+Bonus: 0
+55 50 90 4 58 12 61 60 99 43 
+variable: 85 
+Bonus: 1
+85 43 37 22 62 2 39 34 38 4 
+variable: 39 variable: 93 variable: 54 variable: 44 variable: 22 
+Bonus: 16
+83 71 63 22 39 91 54 93 66 44 
+variable: 97 
+Bonus: 1
+57 50 28 29 97 79 64 54 43 35 
+variable: 38 
+Bonus: 1
+70 38 32 83 21 44 71 36 56 3 
+variable: 60 variable: 1 variable: 17 variable: 13 
+Bonus: 8
+61 49 17 60 20 69 2 9 13 1 
+variable: 62 variable: 69 variable: 95 
+Bonus: 4
+95 58 31 44 62 5 6 9 69 3 
+variable: 63 variable: 8 variable: 61 
+Bonus: 4
+10 25 94 63 11 96 55 61 9 8 
+
+Bonus: 0
+8 55 37 91 72 20 53 76 60 39 
+variable: 77 variable: 10 
+Bonus: 2
+15 72 61 77 66 10 31 26 59 75 
+
+Bonus: 0
+14 11 9 38 16 51 18 32 97 46 
+
+Bonus: 0
+16 17 18 31 63 39 57 73 8 34 
+
+Bonus: 0
+75 51 17 56 61 52 27 12 18 4 
+variable: 93 variable: 11 variable: 36 variable: 58 variable: 69 
+Bonus: 16
+7 43 8 44 58 93 36 13 69 11 
+variable: 16 variable: 31 variable: 41 variable: 4 variable: 39 variable: 67 variable: 97 variable: 77 variable: 23 
+Bonus: 256
+67 4 77 16 31 97 41 40 39 23 
+
+Bonus: 0
+7 80 4 25 94 99 83 34 37 69 
+variable: 46 variable: 27 variable: 45 variable: 21 variable: 11 variable: 8 variable: 73 variable: 40 
+Bonus: 128
+46 8 45 40 5 72 21 11 27 73 
+variable: 92 variable: 3 
+Bonus: 2
+5 68 92 86 58 19 93 45 3 38 
+variable: 66 variable: 85 variable: 65 variable: 44 variable: 59 variable: 89 variable: 4 variable: 99 variable: 95 variable: 28 
+Bonus: 512
+4 44 95 99 28 65 66 89 85 59 
+variable: 16 variable: 91 
+Bonus: 2
+5 67 81 91 85 20 75 37 12 16 
+variable: 36 variable: 11 variable: 61 variable: 13 variable: 19 
+Bonus: 16
+90 23 70 11 94 36 31 61 13 19 
+variable: 86 
+Bonus: 1
+98 5 17 32 20 22 72 86 26 81 
+variable: 85 variable: 61 variable: 42 variable: 84 
+Bonus: 8
+76 11 61 84 56 31 42 26 3 85 
+variable: 60 variable: 50 variable: 10 variable: 88 
+Bonus: 8
+14 88 6 50 59 86 57 94 10 60 
+variable: 26 variable: 99 variable: 17 variable: 59 
+Bonus: 8
+83 92 59 68 33 17 26 46 99 22 
+variable: 49 
+Bonus: 1
+15 88 91 71 26 12 49 63 97 45 
+variable: 3 variable: 36 
+Bonus: 2
+50 77 98 33 3 42 91 78 53 36 
+variable: 45 variable: 52 
+Bonus: 2
+66 98 52 64 26 45 12 83 57 70 
+
+Bonus: 0
+43 8 23 29 84 19 92 58 73 32 
+
+Bonus: 0
+35 39 75 42 54 60 40 58 79 32 
+
+Bonus: 0
+48 55 26 40 15 64 58 77 1 16 
+variable: 48 variable: 34 variable: 64 variable: 14 variable: 94 variable: 37 variable: 24 variable: 38 variable: 11 variable: 41 
+Bonus: 512
+38 34 64 41 11 37 48 24 14 94 
+variable: 49 variable: 98 variable: 9 variable: 18 variable: 56 variable: 25 variable: 31 variable: 2 variable: 42 variable: 94 
+Bonus: 512
+56 31 25 98 94 49 9 42 18 2 
+variable: 4 variable: 79 variable: 23 variable: 54 
+Bonus: 8
+40 79 27 54 30 43 23 4 76 42 
+
+Bonus: 0
+40 93 79 51 16 39 1 61 80 73 
+variable: 13 variable: 89 variable: 56 variable: 40 variable: 32 variable: 45 variable: 92 
+Bonus: 64
+50 45 56 47 13 89 59 32 40 92 
+variable: 38 variable: 55 variable: 88 variable: 99 variable: 67 
+Bonus: 16
+99 38 67 55 93 51 36 88 63 78 
+variable: 93 variable: 45 variable: 14 variable: 27 variable: 12 variable: 90 variable: 49 variable: 11 variable: 8 
+Bonus: 256
+93 6 27 45 14 49 11 8 12 90 
+variable: 73 variable: 95 variable: 65 variable: 97 
+Bonus: 8
+80 97 64 46 53 76 65 73 18 95 
+variable: 3 variable: 62 variable: 93 variable: 27 variable: 90 
+Bonus: 16
+8 3 62 40 90 23 45 93 27 73 
+variable: 36 variable: 74 variable: 50 variable: 22 variable: 52 variable: 56 variable: 59 
+Bonus: 64
+22 50 59 56 36 8 62 74 52 68 
+variable: 68 variable: 17 variable: 49 variable: 3 variable: 81 variable: 89 variable: 5 variable: 82 
+Bonus: 128
+68 81 47 3 82 89 17 90 49 5 
+variable: 97 variable: 68 variable: 84 variable: 82 variable: 1 
+Bonus: 16
+82 91 64 68 39 21 97 1 84 99 
+variable: 20 variable: 4 variable: 86 
+Bonus: 4
+15 63 14 90 65 33 20 4 86 88 
+
+Bonus: 0
+67 87 26 58 15 13 99 6 70 62 
+variable: 68 variable: 15 variable: 69 variable: 84 variable: 45 variable: 65 variable: 9 
+Bonus: 64
+69 84 68 67 65 45 25 9 15 91 
+variable: 5 variable: 72 variable: 33 variable: 95 variable: 2 variable: 25 
+Bonus: 32
+40 99 5 33 95 72 64 25 2 47 
+variable: 31 variable: 25 variable: 97 variable: 89 variable: 68 
+Bonus: 16
+89 31 98 23 68 79 25 2 10 97 
+
+Bonus: 0
+60 91 49 61 78 93 24 82 16 3 
+
+Bonus: 0
+73 79 8 83 16 62 5 36 77 15 
+
+Bonus: 0
+25 24 6 89 90 55 83 69 58 95 
+variable: 20 
+Bonus: 1
+19 40 78 79 20 99 59 41 89 84 
+
+Bonus: 0
+46 23 88 70 14 62 28 78 74 27 
+
+Bonus: 0
+90 35 49 38 70 92 58 86 2 93 
+variable: 34 variable: 5 variable: 86 variable: 75 variable: 25 variable: 67 variable: 2 variable: 72 variable: 17 variable: 78 
+Bonus: 512
+5 2 17 72 34 86 78 25 67 75 
+variable: 78 variable: 7 variable: 13 variable: 53 variable: 68 variable: 30 variable: 45 variable: 16 variable: 21 variable: 56 
+Bonus: 512
+56 53 16 30 13 21 78 7 45 68 
+variable: 99 variable: 20 variable: 48 variable: 81 variable: 43 variable: 68 variable: 19 variable: 24 variable: 13 variable: 34 
+Bonus: 512
+20 81 99 68 19 43 34 48 24 13 
+variable: 32 variable: 62 variable: 38 variable: 21 variable: 92 variable: 50 variable: 68 variable: 31 variable: 11 
+Bonus: 256
+38 21 8 62 68 50 32 31 92 11 
+variable: 86 variable: 38 variable: 88 
+Bonus: 4
+94 60 26 40 86 38 34 63 88 62 
+variable: 57 variable: 10 
+Bonus: 2
+10 95 30 68 35 36 84 48 57 41 
+variable: 75 variable: 36 variable: 69 variable: 34 variable: 95 variable: 27 variable: 77 variable: 74 variable: 31 variable: 87 
+Bonus: 512
+75 36 27 87 31 34 77 74 95 69 
+variable: 14 variable: 16 
+Bonus: 2
+16 63 44 31 14 38 46 81 64 94 
+variable: 29 variable: 89 variable: 48 variable: 6 variable: 13 
+Bonus: 16
+6 38 13 5 89 32 29 52 48 58 
+variable: 45 variable: 26 variable: 78 
+Bonus: 4
+93 62 78 75 26 45 90 92 7 9 
+
+Bonus: 0
+11 72 93 47 60 35 85 78 26 20 
+variable: 88 variable: 10 variable: 87 variable: 17 variable: 65 
+Bonus: 16
+88 3 9 18 73 10 87 65 17 42 
+variable: 68 variable: 58 variable: 53 variable: 64 variable: 84 
+Bonus: 16
+28 8 64 35 68 84 51 1 58 53 
+variable: 57 variable: 46 variable: 89 variable: 55 
+Bonus: 8
+45 41 57 2 55 54 96 19 46 89 
+variable: 49 variable: 79 
+Bonus: 2
+42 38 95 66 18 93 79 45 49 37 
+
+Bonus: 0
+91 28 69 89 54 6 60 19 44 77 
+variable: 74 
+Bonus: 1
+9 37 78 74 26 99 76 48 16 54 
+
+Bonus: 0
+2 10 11 47 25 81 75 61 27 4 
+
+Bonus: 0
+2 10 11 47 25 81 75 61 27 4 
+20294
