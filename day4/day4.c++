@@ -10,6 +10,11 @@
 int main(int argc, char **argv){
 	
 	char  array[10][3] = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
+	int wonCards[209];
+	for (int i=0; i<209; i++){
+		wonCards[i]=0;
+	}
+	int *arrayPtr=wonCards;
 	int sum=0;
 	std::ifstream inputfile(argv[1]);
 	std::string line;
@@ -36,6 +41,7 @@ int main(int argc, char **argv){
 				char a[2] = {*ptr++, 0};
 				for (int i=0; i<10; i++){
 					if ( strncmp(a, array[i], 2)==0){
+						std::cout << a << " ";
 						bonus++;
 					}
 				}
@@ -44,6 +50,7 @@ int main(int argc, char **argv){
 				char a[3] = {*ptr++,*ptr++, 0};
 				for (int i=0; i<10; i++){
 					if(strncmp(array[i], a, 2)==0){
+						std::cout << a << " ";
 						bonus++;
 					}
 				}
@@ -52,16 +59,23 @@ int main(int argc, char **argv){
 				ptr++;
 			}
 		}	
-		bonus = pow(2, bonus-1);
-		sum+=bonus;
+		if (bonus>0){*arrayPtr+=1;}
+		std::cout << *arrayPtr<< "\n";
+		for (int i=1; i<=bonus; i++){
+			*(arrayPtr+i)+=*arrayPtr;
+		}
 		for(int i=0; i<10; i++){
 			array[i][0]=0;
 			array[i][1]=0;
-			array[i][2]=0;
 		}
+		arrayPtr++;
+	}
+	for(int i=0; i<209; i++){
+		std::cout << wonCards[i] << "\n";
+		sum+=wonCards[i];
 	}
 	inputfile.close();
-	std::cout << sum << "\n";
+	std::cout <<  sum << "\n";
 	return 0;
 
 }
